@@ -1,3 +1,7 @@
+## 4.0.0
+
+- Update minimum Dart SDK to `3.0.0`.
+
 ## 3.0.3-dev
 
 - Update minimum Dart SDK to `2.7.0`.
