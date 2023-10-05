@@ -19,7 +19,7 @@ class Options {
       valueHelp: 'path',
       help: 'The path to serve.'
           ' If not set, the current directory is used.')
-  final String path;
+  final String? path;
 
   @CliOption(
       defaultsTo: defaultHost,
